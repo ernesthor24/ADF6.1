@@ -1,0 +1,171 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+MERGED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+	package
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:19:11-59
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:1-37:12
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:18:11-69
+application
+ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:21:5-35:19
+MERGED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:27:9-40
+activity#com.example.android.phonenumberspinner.MainActivity
+ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:28:9-34:20
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:28:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c7979c0050f9835816d7e0e9d298d42a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		ADDED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/4f42bf7b45a914948f892817e25be166/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/2f11ada5152ea0ce351a78975453deb6/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/22fe42f35be98640b84b28cb194d78b5/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/3aa73a5a119370d5f96a4a7dd359e0eb/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/dca4224a3c60036c391ce29d394689ac/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c6abe7d883ee3061706dc93616c77a00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/a2688d9cdb5b1f9c950e5e61f5f9f1a0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/1b774ccf84e46edd0ace235c292fd3d8/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0374461bee49cfd4c325b6fbd535a053/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/0c58fef180606bc140932a8e7622c1fd/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/bf56db120c954e129befd4d753d36a00/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/c43c3b5cb54a2d2985d535c26f2f995c/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/ernestguevara/.gradle/caches/transforms-2/files-2.1/f4949a7e3bb5575ed7beb093f587c909/AndroidManifest.xml:26:13-58

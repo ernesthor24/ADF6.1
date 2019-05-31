@@ -1,0 +1,4 @@
+#Fri May 31 17:08:28 PHT 2019
+base.0=/Users/ernestguevara/AndroidStudioProjects/ADF61PhoneNumberSpinner/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex
